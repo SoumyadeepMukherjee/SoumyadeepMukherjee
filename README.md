@@ -4,8 +4,8 @@
 
 - 🔭 I’m a B.tech Undergrad, studying Information Technology in St. Thomas' College of Engineering & Technology, Kolkata
 - 🌱 Looking for Internships & Full-time roles
+- 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV
 - 👯 I’d love to collaborate on Web development projects
-- 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV.
 
 
 ### :coffee: Its an awesome feeling to see you here. Please do connect with me, who knows what we might build together! :smirk:
@@ -22,7 +22,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img margin="10px" src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"  alt="JavaScript" width="50px" height="50px"></a><br><br>
  
  
-### Frameworks
+### Frameworks & Technologies
   <a href="https://getbootstrap.com/" title="Bootstrap"><img margin="10px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" /></a>
 <a href="https://opencv.org/" title="OpenCV"><img margin="10px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="50px" height="50px"></a>
@@ -51,7 +51,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepMukherjee&border=FEDE00&ring=FEDE00&background=061E47&currStreakNum=FF4500&sideNums=00fa00&sideLabels=8BCD50&dates=43B0F1&date_format=d%20F[,%20Y])
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepMukherjee&show_icons=true&theme=radical)
 
 ## 📈 Github Activity Graph
 [![Soumyadeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=SoumyadeepMukherjee&theme=react-dark)](https://github.com/SoumyadeepMukherjee/github-readme-activity-graph)
@@ -68,6 +67,6 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
             alt="soumyadeepmukherjee" height="30" width="40" /></a>
     <a href="https://twitter.com/Soumyadeep_LM10" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="Soumyadeep_LM10" height="30" width="40" /></a>
 </p>
