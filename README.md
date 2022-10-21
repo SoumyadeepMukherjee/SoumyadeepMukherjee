@@ -59,6 +59,9 @@
 ## 🏆 Github Profile Trophy
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SoumyadeepMukherjee&theme=algolia" width="80%"/>
 
+## Holopin Badges
+[![@soumyadeep_10's Holopin board](https://holopin.me/soumyadeep_10)](https://holopin.io/@soumyadeep_10)
+
 ## Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/soumyadeep-mukherjee-04b405210/" target="blank"><img align="center"
