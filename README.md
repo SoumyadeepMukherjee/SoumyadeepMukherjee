@@ -4,7 +4,7 @@
 
 - 🔭 I’m a B.tech Undergrad, studying Information Technology in St. Thomas' College of Engineering & Technology, Kolkata.
 - 🌱 Looking for Internships & Full-time roles.
-- 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV
+- 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV.
 - 👯 I’d love to collaborate on Web development projects
 - ⚡ Looking to explore various tech stacks and improve problem solving
 
