@@ -54,7 +54,7 @@
 
 
 ## 📈 Github Activity Graph
-[![Soumyadeep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SoumyadeepMukherjee)](https://github.com/SoumyadeepMukherjee/github-readme-activity-graph)
+[![Soumyadeep Mukherjee's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SoumyadeepMukherjee&theme=react-dark)](https://github.com/SoumyadeepMukherjee/github-readme-activity-graph)
 
 ## 🏆 Github Profile Trophy
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SoumyadeepMukherjee&theme=algolia" width="80%"/>
