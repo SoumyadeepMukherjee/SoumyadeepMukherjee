@@ -6,7 +6,7 @@
 - 🌱 Looking for Internships & Full-time roles.
 - 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV.
 - 👯 I’d love to collaborate on Web development projects.
-- ⚡ Looking to explore various tech stacks and improve problem solving
+- ⚡ Looking to explore various tech stacks and improve problem solving.
 
 
 ### :coffee: Let's connect, have a coffee & discuss tech and sports! Who knows what we might build together! :smirk:
