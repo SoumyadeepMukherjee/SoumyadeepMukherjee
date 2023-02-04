@@ -26,7 +26,8 @@
 ### Frameworks & Technologies
   <a href="https://getbootstrap.com/" title="Bootstrap"><img margin="10px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="50px" height="50px"></a>
  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" /></a>
- <a href="https://spring.io/" title="Spring Boot"><img margin="10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASpring_Framework_Logo_2018.svg&psig=AOvVaw0tmxQkGi7Xu_dFXl1w63qi&ust=1675575353808000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi_4eCS-_wCFQAAAAAdAAAAABAE" alt="Spring Boot" width="50px" height="50px"></a>
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://opencv.org/" title="OpenCV"><img margin="10px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" alt="OpenCV" width="50px" height="50px"></a>
 <a href="https://cloud.google.com/" title="Google Cloud"><img margin="10px" src="https://library.kissclipart.com/20181208/the/kissclipart-google-cloud-storage-clipart-google-cloud-platform-196ffd87fde25da8.jpg" alt="Google Cloud" width="50px" height="50px"></a>
 
@@ -52,6 +53,8 @@
 <img src='https://github-readme-stats.vercel.app/api?username=SoumyadeepMukherjee&&show_icons=true&title_color=00fa00&text_color=43B0F1&bg_color=061E47&icon_color=FEDE00'>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepMukherjee&border=FEDE00&ring=FEDE00&background=061E47&currStreakNum=FF4500&sideNums=00fa00&sideLabels=8BCD50&dates=43B0F1&date_format=d%20F[,%20Y])
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepMukherjee&show_icons=true&theme=radical&hide=html,css)
 
 
 ## 📈 Github Activity Graph
