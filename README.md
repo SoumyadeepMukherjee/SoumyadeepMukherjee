@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=SoumyadeepMukherjee&color=red)  ![GitHub followers](https://img.shields.io/github/followers/SoumyadeepMukherjee?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/SoumyadeepMukherjee?style=social)
 
-- 🔭 I’m a B.tech Undergrad, studying Information Technology in St. Thomas' College of Engineering & Technology, Kolkata.
+- 🔭 I’m a B.tech Undergrad, studying Information Technology in St. Thomas' College of Engineering & Technology, Kolkata currently working as an Intern at Cognizant.
 - 🌱 Looking for Internships & Full-time roles.
 - 💬 Currently hustling through Full Stack Web Development & Image processing using OpenCV.
 - 👯 I’d love to collaborate on Web development projects.
@@ -53,8 +53,6 @@
 <img src='https://github-readme-stats.vercel.app/api?username=SoumyadeepMukherjee&&show_icons=true&title_color=00fa00&text_color=43B0F1&bg_color=061E47&icon_color=FEDE00'>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoumyadeepMukherjee&border=FEDE00&ring=FEDE00&background=061E47&currStreakNum=FF4500&sideNums=00fa00&sideLabels=8BCD50&dates=43B0F1&date_format=d%20F[,%20Y])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepMukherjee&show_icons=true&theme=radical&hide=html,css)
 
 
 ## 📈 Github Activity Graph
