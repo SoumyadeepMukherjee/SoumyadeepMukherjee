@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=SoumyadeepMukherjee&color=red)  ![GitHub followers](https://img.shields.io/github/followers/SoumyadeepMukherjee?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/SoumyadeepMukherjee?style=social)
 
-- 🔭 I’m a B.tech Undergrad having studied Information Technology in St. Thomas' College of Engineering & Technology, Kolkata and had been an ADM Java FSE Intern at Cognizant.
-- 🌱 Looking for Internships & Full-time roles.
-- 💬 Currently hustling through Full Stack Web Development.
+- 🔭 I’m a B.tech Undergrad having studied Information Technology in St. Thomas' College of Engineering & Technology, Kolkata and currently working at Cognizant as a Programmer Analyst Trainee. Previously worked as an ADM Java FSE Intern at Cognizant.
+- 🌱 Looking for Full-time roles as a Full-Stack Java Developer.
+- 💬 Currently hustling through Full Stack Java Development.
 - 👯 I’d love to collaborate on Web development projects.
 - ⚡ Looking to explore various tech stacks and improve problem solving.
 
